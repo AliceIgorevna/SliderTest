@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Oct 18 19:02:28 EEST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0157-d887-9bea-00000024cf00 
+on database directory G:\CDP\SliderTest\src\test\resources\sliderDB with class loader sun.misc.Launcher$AppClassLoader@1f96302 
+Loaded from file:/G:/CDP/SliderTest/src/test/resources/test-slider-1.0.0-SNAPSHOT.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_101-b13
+user.dir=G:\CDP\SliderTest\src\test\resources
+os.name=Windows 10
+os.arch=x86
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
